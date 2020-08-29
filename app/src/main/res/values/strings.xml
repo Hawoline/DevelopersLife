@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="person_content_description">Person</string>
+    <string name="gif_content_description">Gif</string>
+    <string name="tab_latest">Latest</string>
+    <string name="tab_best">The best</string>
+    <string name="tab_hot">Hot</string>
+    <string name="load_error">Load failed</string>
+    <string name="previous_content_description">Previous</string>
+    <string name="next_content_description">Next</string>
+</resources>
